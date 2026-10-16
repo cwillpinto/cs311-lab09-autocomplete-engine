@@ -11,8 +11,8 @@ Use Python 3.11 or newer; no third-party packages are required. Complete the fou
 If the instructor starter is a template, select **Use this template** on GitHub, create a repository under your own account, and clone it locally. For a direct clone, create an empty repository under your account first:
 
 ```sh
-git clone <instructor-starter-url>
-cd <cloned-directory>
+git clone https://github.com/cwillpinto/cs311-lab09-autocomplete-engine.git
+cd cs311-lab09-autocomplete-engine
 git remote rename origin upstream
 git remote add origin <your-repository-url>
 git remote -v

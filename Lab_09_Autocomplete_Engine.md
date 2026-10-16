@@ -43,7 +43,7 @@ Every time a USI student's thumb hovers over a keyboard, their phone is racing t
 
 ### Lab contract
 - **Category:** Virtual Labs (26% of course grade). **Points:** 100 (Part A 50; Part B 50). **Due:** Monday, October 26, 2026; confirm the Blackboard time setting before posting.
-- **Starter:** use the supplied `test_autocomplete.py` in the local repository draft. The GitHub URL must be added only after the repository is published and checked.
+- **Starter:** use `test_autocomplete.py` from the instructor's public template at `https://github.com/cwillpinto/cs311-lab09-autocomplete-engine`. Create your own repository for your completed work.
 - **Run:** `python test_autocomplete.py` from the repository root.
 - **Submit in Blackboard Ultra:** the theory file, your student-owned repository URL and full commit SHA, and the token evidence below. Keep completed code in your repository rather than uploading a separate code file.
 
